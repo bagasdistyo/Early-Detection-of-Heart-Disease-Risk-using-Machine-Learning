@@ -1,0 +1,3 @@
+link data kaggle : https://www.kaggle.com/datasets/oktayrdeki/heart-disease/data
+
+link deployment : https://huggingface.co/spaces/bagasdistyo/milestone1
